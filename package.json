@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "woke-content",
+  "version": "1.0.0",
+  "description": "Private content for the woke.net website",
+  "main": "index.js",
+  "author": "stay@woke.net",
+  "license": "UNLICENSED"
+}
